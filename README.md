@@ -67,10 +67,11 @@ cat .env
 ```
 ---
 ## Fast install
+```bash
 docker compose build
 docker compose up airflow-init
 docker compose up -d
-
+```bash
 ---
 
 ## Construir la Imagen
