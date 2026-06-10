@@ -138,12 +138,6 @@ Verificar logs:
 docker compose logs airflow-init
 ```
 
-Salida esperada:
-
-```text
-Database migration successful
-```
-
 ## Acceder a Airflow
 
 Abrir navegador:
@@ -167,19 +161,11 @@ Verificar versión:
 ```bash
 airflow version
 ```
-
-Salida esperada:
-
-```text
-3.2.2
-```
-
 Listar DAGs:
 
 ```bash
 airflow dags list
 ```
-
 ---
 
 ## Crear un DAG de Prueba
