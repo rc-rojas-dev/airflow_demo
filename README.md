@@ -367,6 +367,6 @@ Triggerer
 ```text
 Apache Airflow 3.2.2
 Python 3.12
-PostgreSQL 16
+PostgreSQL 17
 Docker Compose v2
 ```
